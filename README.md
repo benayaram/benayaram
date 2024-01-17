@@ -1,5 +1,6 @@
-[![](https://visitcount.itsvg.in/api?id=benayaram&icon=2&color=12)](https://visitcount.itsvg.in)
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Display&weight=200&size=30&pause=1000&color=F7F7F7&background=0057D9C5&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hi%F0%9F%91%8B;I'm+Benayaram" alt="Typing SVG" /></a>
+[![](https://visitcount.itsvg.in/api?id=benayaram&icon=2&color=12)](https://visitcount.itsvg.in)
+
 <h3 align="center">A passionate Android and Web Developer </h3>
 
 <br/>
@@ -35,16 +36,14 @@
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
+
 <div align="center">
- <div align="left">
+  <div align="center">
     <img src="https://skillicons.dev/icons?i=androidstudio,firebase,html,css,javascript,bootstrap,mui,vscode,github,figma,github" />
     <img src="https://skillicons.dev/icons?i=python,mongodb,react,c,java,flask,ps,pr" /><br>
-</div>
- <div align="right">
-    ![App development](https://github.com/benayaram/benayaram/assets/96018533/e7cbd9bc-0a6f-4c10-b736-43856e804165)
+  </div>
 
-</div>
-</div>
+
 
 
 
@@ -57,8 +56,8 @@
 <div align=center>
    
     
-  ![benayaram's Stats](https://github-readme-stats.vercel.app/api?username=benayaram&theme=default&show_icons=true&hide_border=true&count_private=true)</div></br>
-  ![benayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=benayaram&theme=default&hide_border=true)</br>
+  ![benayaram's Stats](https://github-readme-stats.vercel.app/api?username=benayaram&theme=default&show_icons=true&hide_border=true&count_private=true)
+  ![benayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=benayaram&theme=default&hide_border=true)
   ![benayaram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benayaram&theme=default&show_icons=true&hide_border=true&layout=compact)
 </div>
 
