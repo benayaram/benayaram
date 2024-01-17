@@ -1,5 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=benayaram&icon=2&color=12)](https://visitcount.itsvg.in)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Display&weight=200&size=30&pause=1000&color=F7F7F7&background=0057D9C5&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B;I'm+Benayaram" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Display&weight=200&size=30&pause=1000&color=F7F7F7&background=0057D9C5&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hi%F0%9F%91%8B;I'm+Benayaram" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Android and Web Developer </h3>
 
 <br/>
@@ -43,21 +43,15 @@
 <br/>
 <hr/>
 
-<hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  ![](https://github-readme-stats.vercel.app/api?username=benayaram&theme=merko&hide_border=false&include_all_commits=true&count_private=false)
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  ![benayaram's Stats](https://github-readme-stats.vercel.app/api?username=benayaram&theme=default&show_icons=true&hide_border=true&count_private=true)</div></br>
+  ![benayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=benayaram&theme=default&hide_border=true)</br>
+  ![benayaram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benayaram&theme=default&show_icons=true&hide_border=true&layout=compact)
 </div>
 
-<br/><br/>
 
-<hr/>
 
-<br/>
 
-<br/>
