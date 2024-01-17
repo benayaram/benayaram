@@ -39,7 +39,7 @@
 
 <div align="center">
   <div align="center">
-    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,html,css,javascript,bootstrap,mui,vscode,github,figma,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,html,css,javascript,bootstrap,mui,vscode,github,figma" />
     <img src="https://skillicons.dev/icons?i=python,mongodb,react,c,java,flask,ps,pr" /><br>
   </div>
 
