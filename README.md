@@ -47,6 +47,8 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
+   
+    
   ![benayaram's Stats](https://github-readme-stats.vercel.app/api?username=benayaram&theme=default&show_icons=true&hide_border=true&count_private=true)</div></br>
   ![benayaram's Streak](https://github-readme-streak-stats.herokuapp.com/?user=benayaram&theme=default&hide_border=true)</br>
   ![benayaram's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=benayaram&theme=default&show_icons=true&hide_border=true&layout=compact)
