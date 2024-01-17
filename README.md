@@ -36,9 +36,17 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
+ <div align="left">
     <img src="https://skillicons.dev/icons?i=androidstudio,firebase,html,css,javascript,bootstrap,mui,vscode,github,figma,github" />
     <img src="https://skillicons.dev/icons?i=python,mongodb,react,c,java,flask,ps,pr" /><br>
 </div>
+ <div align="right">
+    ![App development](https://github.com/benayaram/benayaram/assets/96018533/e7cbd9bc-0a6f-4c10-b736-43856e804165)
+
+</div>
+</div>
+
+
 
 <br/>
 <hr/>
