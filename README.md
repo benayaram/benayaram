@@ -1,8 +1,5 @@
 [![](https://visitcount.itsvg.in/api?id=benayaram&icon=2&color=12)](https://visitcount.itsvg.in)
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Benayaram Rekha;" />
-</h1>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Noto+Serif+Display&weight=200&size=30&pause=1000&color=F7F7F7&background=0057D9C5&center=true&vCenter=true&random=false&width=435&lines=Hi%F0%9F%91%8B;I'm+Benayaram" alt="Typing SVG" /></a>
 <h3 align="center">A passionate Android and Web Developer </h3>
 
 <br/>
@@ -39,7 +36,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=android,firebase,html,css,javascript,bootstrap,mui,vscode,github,figma,github" />
+    <img src="https://skillicons.dev/icons?i=androidstudio,firebase,html,css,javascript,bootstrap,mui,vscode,github,figma,github" />
     <img src="https://skillicons.dev/icons?i=python,mongodb,react,c,java,flask,ps,pr" /><br>
 </div>
 
