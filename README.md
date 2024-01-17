@@ -28,6 +28,10 @@
   <a href="https://benayaram.github.io/benayaram.ai" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
+  <a href="https://www.youtube.com/channel/UCKQsM3Felh1810MTGpdO-0A" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-FF5722?style=for-the-badge&logo=Youtube&logoColor=white" target="_blank" />
+  </a>
+    
 </div>
 
  <hr/>
