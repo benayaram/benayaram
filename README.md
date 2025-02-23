@@ -7,13 +7,13 @@
 
 📫 Reach out to me at [benayaramcreations@gmail.com](mailto:benayaramcreations@gmail.com).
 
-🌍 **Portfolio:** [benayaram.github.io](https://benayaram.github.io)  
+🌍 **Portfolio:** [benayaram Portfolio](https://benayaram.github.io/Benayaram_Portfolio/)  
 
 ---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rekha-benayaram) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@benayaram)) 
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@benayaram)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benayaramcreations@gmail.com)  
 
 ---
